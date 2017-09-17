@@ -1,0 +1,19 @@
+PODS:
+  - RxCocoa (3.6.1):
+    - RxSwift (~> 3.6)
+  - RxSwift (3.6.1)
+  - Swinject (2.1.1)
+
+DEPENDENCIES:
+  - RxCocoa (~> 3.0)
+  - RxSwift (~> 3.0)
+  - Swinject (~> 2.1.0)
+
+SPEC CHECKSUMS:
+  RxCocoa: 84a08739ab186248c7f31ce4ee92d6f8a947d690
+  RxSwift: f9de85ea20cd2f7716ee5409fc13523dc638e4e4
+  Swinject: afea49fd95f392b41171669f165842879c48fad6
+
+PODFILE CHECKSUM: ea2ccd8a00a966a7ffe96b46628fc1a0b06d8984
+
+COCOAPODS: 1.3.1
